@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Tests" duration-ms="9159" started-at="2015-12-09T11:08:53Z" finished-at="2015-12-09T11:09:03Z">
+    <groups>
+    </groups>
+    <test name="Test1" duration-ms="9159" started-at="2015-12-09T11:08:53Z" finished-at="2015-12-09T11:09:03Z">
+      <class name="mxndtr.trt.hp.FirstTest">
+        <test-method status="PASS" signature="init()[pri:0, instance:mxndtr.trt.hp.FirstTest@39ba5a14]" name="init" is-config="true" duration-ms="8241" started-at="2015-12-09T14:08:53Z" finished-at="2015-12-09T14:09:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method status="PASS" signature="testUntitled()[pri:0, instance:mxndtr.trt.hp.FirstTest@39ba5a14]" name="testUntitled" duration-ms="912" started-at="2015-12-09T14:09:02Z" finished-at="2015-12-09T14:09:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testUntitled -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:mxndtr.trt.hp.FirstTest@39ba5a14]" name="tearDown" is-config="true" duration-ms="498" started-at="2015-12-09T14:09:03Z" finished-at="2015-12-09T14:09:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- mxndtr.trt.hp.FirstTest -->
+    </test> <!-- Test1 -->
+  </suite> <!-- Tests -->
+</testng-results>
