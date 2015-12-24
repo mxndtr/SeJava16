@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="39a761b6-efac-40e1-8a0d-f280c6f4a7c4" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/mxndtr/trt/hp/TestClass.java" />
+      <change type="DELETED" beforePath="C:\IdeaProjects\SeJava16\src\test\java\mxndtr\trt\hp\TestClass.java" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="SeJava16.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -37,24 +38,14 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SearchFilms.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="SearchFilms.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/mxndtr/trt/hp/SearchFilms.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
+            <state vertical-scroll-proportion="0.08108108">
               <caret line="30" column="23" selection-start-line="30" selection-start-column="23" selection-end-line="30" selection-end-column="23" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="TestClass.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/test/java/mxndtr/trt/hp/TestClass.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.14358108">
-              <caret line="5" column="22" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
-              <folding />
             </state>
           </provider>
         </entry>
@@ -108,6 +99,7 @@
         <option value="$PROJECT_DIR$/src/test/java/mxndtr/trt/hp/FirstTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/mxndtr/trt/hp/CreateAndDeleteFilms.java" />
         <option value="$PROJECT_DIR$/src/test/java/mxndtr/trt/hp/SearchFilms.java" />
+        <option value="$PROJECT_DIR$/src/test/java/mxndtr/trt/hp/TestClass.java" />
       </list>
     </option>
   </component>
@@ -646,15 +638,15 @@
       <updated>1450900647218</updated>
       <workItem from="1450900651491" duration="215000" />
       <workItem from="1450902001976" duration="8626000" />
-      <workItem from="1450913545569" duration="4054000" />
+      <workItem from="1450913545569" duration="4528000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13412000" />
+    <option name="totallyTimeSpent" value="13886000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1924" height="1056" extended-state="0" />
+    <frame x="-8" y="-8" width="1924" height="1056" extended-state="1" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -813,19 +805,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/mxndtr/trt/hp/SearchFilms.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
+        <state vertical-scroll-proportion="0.08108108">
           <caret line="30" column="23" selection-start-line="30" selection-start-column="23" selection-end-line="30" selection-end-column="23" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/mxndtr/trt/hp/TestClass.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.14358108">
-          <caret line="5" column="22" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
-          <folding />
         </state>
       </provider>
     </entry>
